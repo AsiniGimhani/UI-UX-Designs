@@ -1,3 +1,4 @@
 # UI-UX-Designs
-Figma Prototype
-Click here to view the full design: [Figma Link]https://www.figma.com/proto/WlHbpWJIKdAm2lV1X6Tfmg/BudgetBuddy?node-id=0-1&t=xvGnIM7D93
+Figma Prototype(Budget_Planner_App)
+
+https://www.figma.com/proto/WlHbpWJIKdAm2lV1X6Tfmg/BudgetBuddy?node-id=0-1&t=xvGnIM7D93
